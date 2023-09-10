@@ -50,7 +50,7 @@ https://raw.githubusercontent.com/liketolivefree/iran_domain-ip/main/iran_domain
 
 .
 
-فهرست آی¬پی¬های مخصوص ایران (هم آی¬پی4 و هم آی¬پی6):
+فهرست آی پی های مخصوص ایران (هم آی پی4 و هم آی پی6):
 
 https://raw.githubusercontent.com/liketolivefree/iran_domain-ip/main/iran_ips_direct.yaml
 
