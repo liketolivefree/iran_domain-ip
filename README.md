@@ -11,6 +11,7 @@
 2-اما سعی میکنیم در اسرع وقت، با سطح دقت قابل قبولی تکمیلشون کنیم.
 
 3-تعدادی از مهمترین منابع مورد استفاده در تهیه این لیستها:
+
 https://github.com/bootmortis/iran-hosted-domains
 https://github.com/MasterKia/PersianBlocker
 https://github.com/hagezi/dns-blocklists
