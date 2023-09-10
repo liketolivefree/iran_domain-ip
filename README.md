@@ -75,7 +75,7 @@ https://raw.githubusercontent.com/liketolivefree/iran_domain-ip/main/iran_ips_di
 
 .
 
-فهرست آی¬پی¬های تبلیغاتی و بدافزاری ایران:
+فهرست آی پی های تبلیغاتی و بدافزاری ایران:
 
 https://raw.githubusercontent.com/liketolivefree/iran_domain-ip/main/iran_ips_reject.yaml
 
