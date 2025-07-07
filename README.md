@@ -12,37 +12,35 @@
 
 3-تعدادی از مهمترین منابع مورد استفاده در تهیه این لیستها:
 
-https://github.com/bootmortis/iran-hosted-domains
+
+
+https://github.com/Chocolate4U/Iran-clash-rules/tree/release
+
+https://github.com/Chocolate4U/Iran-v2ray-rules/tree/release
+
+https://github.com/bootmortis/iran-hosted-domains/releases
+
+https://whois.ipip.net/iso/IR
+
+https://www.geonames.org/statistics/iran.html
+
+https://directory.iwmf.ir/
+
+https://eservices.ito.gov.ir/Page/IPListMessenger
+
+https://github.com/bootmortis/enamad-mirror
+
+https://github.com/bootmortis/ito-gov-mirror
+
+https://github.com/Chocolate4U/ito.gov.ir-Mirror
+
+https://github.com/Chocolate4U/iwmf.ir-Mirror
 
 https://github.com/MasterKia/PersianBlocker
 
-https://github.com/hagezi/dns-blocklists
+https://github.com/ygbkm/clash-rules-iran
 
-https://lite.ip2location.com/iran-(islamic-republic-of)-ip-address-ranges?lang=en_US
-
-https://github.com/MiSaturo/GeoIP-DB-For-Iran
-
-https://github.com/Ilia-Abolhasani/iran-geo-ip
-
-https://github.com/redpilllabs/GFIGeoIP
-
-https://urlhaus.abuse.ch/api
-
-https://urlscan.io
-
-https://web-check.xyz
-
-https://web-check.as93.net
-
-https://www.urlvoid.com
-
-https://metadefender.opswat.com
-
-https://transparencyreport.google.com/safe-browsing/search
-
-https://radar.cloudflare.com/scan
-
-https://browserleaks.com
+https://webamoozcom.github.io/warning-list/
 
 
 .
